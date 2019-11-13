@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab7</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add">ADD</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="Category"><b>Category:</b> %s</string>
+    <string name="importance"><b>Priority:</b> %s</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_priority">Select Priority</string>
+
+</resources>

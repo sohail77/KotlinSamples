@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="category_list">
+        <item>Idea</item>
+        <item>Note</item>
+        <item>Lecture</item>
+        <item>Entertainment</item>
+        <item>Data</item>
+    </array>
+
+    <array name="importance_list">
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Medium</item>
+        <item>High</item>
+        <item>Very High</item>
+    </array>
+</resources>
